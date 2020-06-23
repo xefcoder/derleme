@@ -17,17 +17,17 @@ Gerekli Bilgileri Girdek Sonra İşlem Tamamlanıyor.
 <link rel="stylesheet" href="style.css">
 
 <img src="https://www.freelogodesign.org/file/app/client/thumb/a80698e9-145a-43d5-b02d-be9d45f55679_200x200.png?1592938923745" alt="Örnek Resim"/>
+
 <i class="fas fa-yen-sign"></i>
 <i class="fab fa-atlassian"></i>
 <i class="fas fa-hand-lizard"></i>
 <i class="fab fa-atlassian"></i>
 <i class="far fa-registered"></i>
-
 <i class="fab fa-monero"></i>
 <i class="fab fa-cuttlefish"></i>
 <i class="fab fa-dyalog"></i>
 <i class="fab fa-kaggle"></i>
-<i class="fab fa-stripe-a"></i>
+<i class="fab fa-stripe-s"></i>
 <i class="far fa-registered"></i>
 ## <i class="fa fa-cog fa-spin fa-3x fa-fw"></i>
 
