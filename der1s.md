@@ -23,7 +23,7 @@ Gerekli Bilgileri Girdek Sonra İşlem Tamamlanıyor.
 <i class="fas fa-hand-lizard fa-2x" aria-hidden="true"></i>
 <i class="fab fa-atlassian fa-2x" aria-hidden="true"></i>
 <i class="far fa-registered fa-2x" aria-hidden="true"></i>
-  ## :
+  :
 <i class="fab fa-monero fa-2x" aria-hidden="true"></i>
 <i class="fab fa-cuttlefish fa-2x" aria-hidden="true"></i>
 <i class="fab fa-dyalog fa-2x" aria-hidden="true"></i>
