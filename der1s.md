@@ -23,7 +23,7 @@ Gerekli Bilgileri Girdek Sonra İşlem Tamamlanıyor.
 <i class="fab fa-cuttlefish"></i>
 <i class="fab fa-dyalog"></i>
 <i class="fab fa-kaggle"></i>
-<i class="fab fa-stripe-s"></i>
+<i class="fab fa-stripe-a"></i>
 <i class="far fa-registered"></i>
 ## <i class="fa fa-cog fa-spin fa-3x fa-fw"></i>
 
