@@ -19,7 +19,7 @@ Syntax highlighted code block
 
 `Yazan McdKsr [https://mcdksr.3b.tc]` 
 
-[Link](https://xefcoder.github.io/derleme) and ![Image](https://www.freelogodesign.org/file/app/client/thumb/a80698e9-145a-43d5-b02d-be9d45f55679_200x200.png?1592938923745)
+<img src="https://www.freelogodesign.org/file/app/client/thumb/a80698e9-145a-43d5-b02d-be9d45f55679_200x200.png?1592938923745" alt="Örnek Resim"/>
 ```
 
 Yakında Derleme
