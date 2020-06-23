@@ -2,12 +2,11 @@
 ## Konu:Nasıl Bedava Hosting Alınır
 bedava hosting nasıl alınırmı ?
 çok kolay bir yöntem sizde hemen açabilirsiniz ilk öncelikler
-##1.HasCoding
+## 1.HasCoding
 türklerin yapmış oldugu bi sitedir Kurallara Uymazsanız Hesabınız Kapatılır.
 Bu Sitede Sizin Hangi Okul Grubunda Okuyorsanız Onu Seçiniz
 Gerekli Bilgileri Girdek Sonra İşlem Tamamlanıyor.
-<i class="fa fa-exclamation-triangle" aria-hidden="true"></i> Dikkat Kurallara Uymazsanız Ürünleriniz Kapanır.<i class="fa fa-exclamation-triangle" aria-hidden="true"></i>
-
+Dikkat Kurallara Uymazsanız Ürünleriniz Kapanır.
 
 
 
