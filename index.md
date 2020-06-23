@@ -1,37 +1,33 @@
-## Welcome to GitHub Pages
+## XEF
+Selam BU DERLEMELERDE YENİ ŞEYLER EKLEYECEGİZ
 
-You can use the [editor on GitHub](https://github.com/xefcoder/derleme/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+İlk Öncellikle Anlatılmayan Kurgusuz Bir Sistem Kodlarını Açık Kaynaklı Olarak Görebileceksiniz
+### Ne Bu Uygulamalar ?
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Evet Bu Uygulamalar Sizin Günlük Hayatınızda İşe Yarıyacaktır İnternetten Ders Sistemi Yaptıgımızda Sizde Artık Kod Ögrenebileceksiniz
 
 ```markdown
 Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+-Neye Dikkat Etmeliyim?
 
-- Bulleted
-- List
+- Hatalar
+- Buglar
 
-1. Numbered
-2. List
+1. Buglar
+2. Hatalar
 
-**Bold** and _Italic_ and `Code` text
+`Yazan McdKsr [https://mcdksr.3b.tc]` 
 
-[Link](url) and ![Image](src)
+[Link](https://xefcoder.github.io/derleme) and ![Image](https://www.freelogodesign.org/file/app/client/thumb/a80698e9-145a-43d5-b02d-be9d45f55679_200x200.png?1592938923745)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+Yakında Derleme
 
-### Jekyll Themes
+### Derleme
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/xefcoder/derleme/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Derleme Yakında 
 
-### Support or Contact
+### Kodlar
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Yakında....
