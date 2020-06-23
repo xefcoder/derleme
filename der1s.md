@@ -18,7 +18,7 @@ Gerekli Bilgileri Girdek Sonra İşlem Tamamlanıyor.
 <img src="https://www.freelogodesign.org/file/app/client/thumb/a80698e9-145a-43d5-b02d-be9d45f55679_200x200.png?1592938923745" alt="Örnek Resim"/>
 
 
-<i class="fad fa-arrow-alt-circle-right"></i>
+<i class="fa fa-discord"></i>
 
 ## <i class="fa fa-cog fa-spin fa-3x fa-fw"></i>
 <span class="sr-only">Yazar:McdKsr</span> Yazar:McdKsr
