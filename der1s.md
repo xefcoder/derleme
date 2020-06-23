@@ -9,7 +9,7 @@ Gerekli Bilgileri Girdek Sonra İşlem Tamamlanıyor.
 <Dikkat Kurallara Uymazsanız Ürünleriniz Kapanır.
 
 
-<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.1/css/font-awesome.min.css">
+<link rel="stylesheet" href="style.css">
 
 <img src="https://www.freelogodesign.org/file/app/client/thumb/a80698e9-145a-43d5-b02d-be9d45f55679_200x200.png?1592938923745" alt="Örnek Resim"/>
 
