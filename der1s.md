@@ -1,3 +1,7 @@
+  <head>
+    <!-- Place your kit's code here -->
+    <script src="https://kit.fontawesome.com/1213177108.js" crossorigin="anonymous"></script>
+  </head>
 ## XEF DERLEME 1
 ## Konu:Nasıl Bedava Hosting Alınır
 bedava hosting nasıl alınırmı ?
