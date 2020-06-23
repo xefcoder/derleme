@@ -6,7 +6,7 @@ bedava hosting nasıl alınırmı ?
 türklerin yapmış oldugu bi sitedir Kurallara Uymazsanız Hesabınız Kapatılır.
 Bu Sitede Sizin Hangi Okul Grubunda Okuyorsanız Onu Seçiniz
 Gerekli Bilgileri Girdek Sonra İşlem Tamamlanıyor.
-<i class="fa fa-times-circle" aria-hidden="true"></i>Dikkat Kurallara Uymazsanız Ürünleriniz Kapanır.<i class="fa fa-times-circle" aria-hidden="true"></i>
+<Dikkat Kurallara Uymazsanız Ürünleriniz Kapanır.
 
 
 <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.1/css/font-awesome.min.css">
@@ -16,4 +16,5 @@ Gerekli Bilgileri Girdek Sonra İşlem Tamamlanıyor.
 
 
 
-## Yazar:McdKsr
+## <i class="fa fa-cog fa-spin fa-3x fa-fw"></i>
+<span class="sr-only">Yazar:McdKsr</span> Yazar:McdKsr
